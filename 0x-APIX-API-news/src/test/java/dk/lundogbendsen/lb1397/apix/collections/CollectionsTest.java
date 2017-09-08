@@ -1,4 +1,4 @@
-package dk.lundogbendsen.lb1397.apix;
+package dk.lundogbendsen.lb1397.apix.collections;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
