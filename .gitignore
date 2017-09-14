@@ -22,8 +22,10 @@ nbdist/
 *.project
 *.settings
 /bin
+*/bin
 /subprojects/*/bin
 atlassian-ide-plugin.xml
+.metadata
 
 # Vim
 *.sw[op]
@@ -48,3 +50,4 @@ atlassian-ide-plugin.xml
 # HPROF
 *.hprof
 
+*/src/dk/lundogbendsen/javase8upgrade
