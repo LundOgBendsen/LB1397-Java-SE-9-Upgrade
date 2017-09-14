@@ -13,6 +13,6 @@ repositories {
 }
 
 dependencies {
+    compile 'com.carrotsearch:java-sizeof:0.0.5'
     testCompile 'junit:junit:4.12'
-    testCompile 'com.carrotsearch:java-sizeof:0.0.5'
 }
