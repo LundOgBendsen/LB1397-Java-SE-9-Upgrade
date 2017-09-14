@@ -50,4 +50,4 @@ atlassian-ide-plugin.xml
 # HPROF
 *.hprof
 
-*/src/dk/lundogbendsen/javase8upgrade
+**/javase8upgrade
