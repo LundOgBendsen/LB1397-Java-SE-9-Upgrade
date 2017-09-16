@@ -1,0 +1,4 @@
+module dk.lundogbendsen.lb1397.logging.løsning {
+    provides java.lang.System.LoggerFinder
+    with dk.lundogbendsen.lb1397.logging.løsning.LBLoggerFinder;
+}

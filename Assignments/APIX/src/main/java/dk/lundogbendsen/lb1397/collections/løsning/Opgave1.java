@@ -1,4 +1,4 @@
-package dk.lundogbendsen.lb1397.collections;
+package dk.lundogbendsen.lb1397.collections.løsning;
 
 import com.carrotsearch.sizeof.RamUsageEstimator;
 
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Opgave1Løsning extends Opgave1 {
+public class Opgave1 extends dk.lundogbendsen.lb1397.collections.Opgave1 {
 
     @Override
     public void a() {
@@ -188,7 +188,7 @@ public class Opgave1Løsning extends Opgave1 {
     }
 
     public static void main(String[] args) {
-        Opgave1 opgave1 = new Opgave1Løsning();
+        dk.lundogbendsen.lb1397.collections.Opgave1 opgave1 = new Opgave1();
 
         opgave1.a();
         opgave1.b();

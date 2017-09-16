@@ -1,10 +1,10 @@
-package dk.lundogbendsen.lb1397.string;
+package dk.lundogbendsen.lb1397.string.løsning;
 
 import com.carrotsearch.sizeof.RamUsageEstimator;
 
 import static java.lang.Runtime.getRuntime;
 
-public class Opgave3Løsning {
+public class Opgave3 {
 
     // Try running this without and with -XX:-CompactStrings
 
