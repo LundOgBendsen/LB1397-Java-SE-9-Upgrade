@@ -1,4 +1,4 @@
-package dk.lundogbendsen.lb1397.ex3.opgave;
+package dk.lundogbendsen.lb1397.ex3.exercise;
 
 public class LBLoggerFinder { // TODO
 
