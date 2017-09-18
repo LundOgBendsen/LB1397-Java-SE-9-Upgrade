@@ -2,13 +2,12 @@ package dk.lundogbendsen.lb1397.ex4;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.SubmissionPublisher;
 
 import static java.util.concurrent.TimeUnit.HOURS;
 
 public class EarthOrbitCalculator {
 
-    public EarthOrbitCalculator(SubmissionPublisher<String> publisher) {
+    public EarthOrbitCalculator(/* TODO SubmissionPublisher<String> publisher */) {
         // TODO
     }
 
@@ -17,9 +16,9 @@ public class EarthOrbitCalculator {
 
         for (int i=0; i<3600; i++) {
             final int calculationStep = i;
-            executor.submit(
-                // TODO
-            );
+            // TODO executor.submit(
+            //    () -> advancedCalculationOfAngleToSun(i)
+            // );
         }
 
         executor.shutdown();

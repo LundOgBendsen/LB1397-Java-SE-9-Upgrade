@@ -10,8 +10,8 @@ public class Application {
         // TODO
 
         // Start orbit calculations
-        EarthOrbitCalculator earthOrbitCalculator = new EarthOrbitCalculator(// TODO);
-        earthOrbitCalculator.run();
+        EarthOrbitCalculator earthOrbitCalculator = new EarthOrbitCalculator(); // TODO
+        // TODO earthOrbitCalculator.run();
 
         System.out.println("-- END ------------------------");
     }
