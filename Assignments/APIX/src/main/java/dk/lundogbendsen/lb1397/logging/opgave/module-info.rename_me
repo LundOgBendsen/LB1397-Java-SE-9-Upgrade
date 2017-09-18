@@ -1,4 +1,0 @@
-module dk.lundogbendsen.lb1397.logging.opgave {
-    provides TODO
-    with TODO
-}
