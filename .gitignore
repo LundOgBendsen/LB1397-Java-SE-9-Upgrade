@@ -26,6 +26,7 @@ nbdist/
 /subprojects/*/bin
 atlassian-ide-plugin.xml
 .metadata
+.recommenders
 
 # Vim
 *.sw[op]
